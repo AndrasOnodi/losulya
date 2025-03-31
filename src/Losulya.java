@@ -22,7 +22,7 @@ public class Losulya {
 
         double eredmeny = (Math.pow(elsoSzam, elsoSzam) * masodikSzam )/ 11877;
 
-        System.out.println("A megadott ló súlya: " + eredmeny+ " kilógramm");
+        System.out.println("A megadott ló súlya: " + eredmeny+ " kiló!");
 
         scanner.close();
     }
